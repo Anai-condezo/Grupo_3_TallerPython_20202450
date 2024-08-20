@@ -4,5 +4,6 @@ tarea individual
 ## tarea
 este repositorio contiene
 - Tarea 1
+  GRUPO_3_TAREA1.ipynb
 - Tarea 2
 - Tarea 3
