@@ -1,0 +1,2 @@
+# Grupo_3_TallerPython_20202450
+tarea individual
